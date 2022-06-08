@@ -28,6 +28,9 @@ Repeat iterations until convergence in term of the selected error criterion. An 
 4.Initialize variables for training iterations and learning rate\
 5.Defining weight and biases for hidden and output layer\
 6.Updating Weights
+``
+
+``
 
 ## Program:
 ```
